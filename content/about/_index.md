@@ -1,29 +1,29 @@
 ---
-date: "2014-04-09"
-title: About Hugo
+date: "2020-01-01"
+title: 楊珮瑜物理治療師/ Pei-Yu Yang Physical Therapist
 ---
 
-Hugo is a static site engine written in Go.
+
+![](peiyu_and_baby2.jpg)
 
 
-It makes use of a variety of open source projects including:
+# 現任
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* [臺大醫院物理治療中心](https://www.ntuh.gov.tw/PTC/Fpage.action?muid=3&fid=1222)物理治療師  
+* [台灣大學物理治療學系](https://www.mc.ntu.edu.tw/ntupt/Index.action)系聘臨床物理治療指導教師  
+* 長庚大學物理治療學系系聘臨床物理治療指導教師  
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+# 學歷
+* 台灣大學物理治療研究所碩士  
+* 台灣大學物理治療學系學士  
 
-## Setup
+# 經歷
+* 台灣大學物理治療學系專任研究助理  
+* 亞東醫院放射腫瘤科兼任研究助理  
+* 台灣物理治療學會期刊執行編輯  
+* 高雄醫學大學物理治療學系系聘臨床物理治療指導教師  
+* 2018「世界物理治療聯盟與臺灣物理治療學會之南亞兒童健康國際合作計畫」課程規劃負責人及講師  
+* 台灣物理治療學會「高危險新生兒跨領域照護人員培訓課程及工作坊」課程規劃負責人及講師
 
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+# 版品、期刊論文
+1. 楊佩瑜。早產兒的物理治療。胡名霞、曹昭懿編著：[物理治療臨床案例](https://www.govbooks.com.tw/books/111672)。

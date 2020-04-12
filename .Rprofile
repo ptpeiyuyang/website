@@ -4,9 +4,9 @@ if (file.exists("~/.Rprofile")) {
 }
 
 options(
-  blogdown.author = "楊珮瑜 物理治療師",
-  blogdown.ext = ".Rmd",
-  blogdown.subdir = "post",
+  blogdown.author = "Pei-Yu Yang",
+  blogdown.ext = ".md",
+  blogdown.subdir = "blog",
   blogdown.yaml.empty = TRUE,
   blogdown.new_bundle = TRUE,
   blogdown.title_case = TRUE

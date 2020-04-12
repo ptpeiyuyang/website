@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "Hugo Future Imperfect"
+languageCode = "zh" #en-us
+title = "楊珮瑜 Pei-Yu Yang"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -13,9 +13,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Pei-Yu Yang's personal website. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "楊珮瑜 物理治療師"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -46,9 +46,9 @@ canonifyURLs = true
   socialShareTwitter   = true
   socialShareGoogleplus = true
   socialShareFacebook  = true
-  socialShareReddit    = true
+  socialShareReddit    = false
   socialShareLinkedin  = true
-  socialShareStumbleupon = true
+  socialShareStumbleupon = false
   socialSharePinterest = true
   socialShareEmail     = true
 
@@ -87,22 +87,22 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "Pei-Yu Yang"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "\b 巨塔內的物理治療師，專長是嬰幼兒和急重症物理治療，同時也是一名國際認證泌乳顧問，夢想是讓物理治療進入每個人的生活，陪伴所有家庭健康成長。"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "楊珮瑜物理治療師擁有臺灣大學物理治療學士與碩士學位，發表與審核數篇學術論文，而累積之臨床經驗已達六年之久，專精於嬰幼兒發展照護與專業物理治療，並是一位擁有國際認證之泌乳顧問。"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/logo.jpg"
+    src       = "/img/main/peiyu.jpg"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "Pei-Yu Yang"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -111,87 +111,87 @@ canonifyURLs = true
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
-  name = "Home"
+  name = "首頁 Home"
   url = "/"
   identifier = "fa fa-home"
   weight = 1
 
 [[menu.main]]
-  name = "About"
+  name = "關於作者 About"
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
 
 [[menu.main]]
-  name = "Blog"
+  name = "文章列表 Blog"
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
+  name = "最新消息 Announcement"
+  url = "/announcement/"
   identifier = "fa fa-list"
   weight = 4
 
 [[menu.main]]
-  name = "Categories"
+  name = "索引 Categories"
   url = "/categories/"
   identifier = "fa fa-sitemap"
   weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  identifier = "fa fa-envelope-o"
-  weight = 6
+#[[menu.main]]
+#  name = "聯絡我 Contact"
+#  url = "/contact/"
+#  identifier = "fa fa-envelope-o"
+#  weight = 6
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
-  gitlab           = ""
-  stackoverflow    = "" # User Number
-  bitbucket        = ""
-  jsfiddle         = ""
-  codepen          = ""
+  #github           = "jpescador/hugo-future-imperfect"
+  #gitlab           = ""
+  #stackoverflow    = "" # User Number
+  #bitbucket        = ""
+  #jsfiddle         = ""
+  #codepen          = ""
   # Visual Art Communities
-  deviantart       = ""
-  flickr           = "example"
-  behance          = ""
-  dribbble         = ""
+  #deviantart       = ""
+  #flickr           = "example"
+  #behance          = ""
+  #dribbble         = ""
   # Publishing Communities
-  wordpress        = ""
-  medium           = ""
+  #wordpress        = ""
+  #medium           = ""
   # Professional/Business Oriented Communities
   linkedin         = "example"
-  linkedin_company = "examplebusiness"
-  foursquare       = ""
-  xing             = ""
-  slideshare       = ""
+  #linkedin_company = "examplebusiness"
+  #foursquare       = ""
+  #xing             = ""
+  #slideshare       = ""
   # Social Networks
-  facebook         = "example"
-  googleplus       = ""
-  reddit           = "example"
-  quora            = ""
+  facebook         = "peiyu.yang.7"
+  #googleplus       = ""
+  #reddit           = "example"
+  #quora            = ""
   youtube          = ""
-  vimeo            = ""
-  whatsapp         = "" # WhatsApp Number
+  #vimeo            = ""
+  #whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat         = ""
-    qq             = "" # User ID Number
+    #wechat         = ""
+    #qq             = "" # User ID Number
   instagram        = "example"
-  tumblr           = ""
+  #tumblr           = ""
   twitter          = "example"
   skype            = ""
-  snapchat         = ""
-  pinterest        = "example"
-  telegram         = "example"
-  vine             = ""
+  #snapchat         = ""
+  #pinterest        = "example"
+  #telegram         = "example"
+  #vine             = ""
   googlescholar    = ""
-  orcid            = ""
-  researchgate     = "example"
+  #orcid            = ""
+  #researchgate     = "example"
   # Email
-  email            = "example"
+  email            = "ptpeiyuyang@gmail.com"

@@ -1,109 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect</title>
+    <title>楊珮瑜 Pei-Yu Yang</title>
     <link>/</link>
-    <description>Recent content on Hugo Future Imperfect</description>
+    <description>Recent content on 楊珮瑜 Pei-Yu Yang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <language>zh</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fancy App 1</title>
-      <link>/itemized/item1/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>懶人包系列- 買賣母奶罪母湯</title>
+      <link>/blog/2020-04-12-breast-feeding/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/item1/</guid>
-      <description>App 1 </description>
+      <guid>/blog/2020-04-12-breast-feeding/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 2</title>
-      <link>/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>懶人包系列- 早產兒發展照護</title>
+      <link>/blog/2020-04-12-pt-in-premature-babies/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/item2/</guid>
-      <description>App 2 </description>
+      <guid>/blog/2020-04-12-pt-in-premature-babies/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 3</title>
-      <link>/itemized/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>專欄文章- 早產寶寶的發展守護小天使：物理治療師</title>
+      <link>/announcement/item1/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/item3/</guid>
-      <description>App 3 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 4</title>
-      <link>/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/itemized/item4/</guid>
-      <description>App 4 </description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/blog/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/blog/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/hugoisforlovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
-&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/blog/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/migrate-from-jekyll/</guid>
-      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>/announcement/item1/</guid>
+      <description>文章連結 https://www.chinatimes.com/realtimenews/20161117001829-260405?chdtv
+內文 走進新生兒加護病房，映入眼簾的是在病床間奔波的醫護人員及一個個努力的小生命，聽聞入耳的是此起彼落的機器運轉聲與警示聲，在如此緊張又忙碌的氛圍中，偶然發現某個角落，時而出現玩具聲，時而發出喜悅與讚美的話語，不要覺得奇怪，一定是物理治療師來帶寶寶做運動了！
+早產兒定義 早產兒意指懷孕週數不滿37週即提前“退房”的寶寶，其中懷孕週數不滿32週、出生體重小於1500克的早產寶寶，在臨床上亦屬於「高危險新生兒」。無論早產的原因為何，這些寶寶在長大的過程中，都可能因為早產相關的併發症及不適當的環境刺激，讓他們在發展上面臨不同程度的困難。對於父母親而言，除了心疼不捨外，照顧早產寶寶也會帶來一定程度的壓力。
+早產兒常出現的問題 足月嬰兒的吸吮、吞嚥、四肢維持屈曲等能力，都是隨著懷孕週數增加在子宮內慢慢發展而成的，然而早產寶寶由於提早離開母體，除了生理發育尚未成熟外，失去子宮環境的支持，使得這些一般認為是與生俱來的神經行為發展，對他們來說更加困難。因此，在加護病房中，物理治療師提供的發展介入主要包含：幫助早產寶寶設計個人化的發展環境（如給予擺位建議、減少不良的環境刺激、提供正向的感知覺刺激、減敏感按摩等）、神經行為發展誘發（如主動動作誘發、自我調節能力及視聽覺定向訓練等）、呼吸及心肺耐力訓練，以及口腔動作與餵食訓練；此外，物理治療師也會根據寶寶的狀況，鼓勵家長盡早參與寶寶的照顧，並教導父母親適當的親子互動方式，除了讓父母親了解孩子的發展狀況外，也讓親子間有更緊密的聯繫，減少父母親的壓力與焦慮，盡早建立良好的親子關係。
+足月後的早產寶寶，也會和足月兒一樣經歷坐站爬走的動作發展、咿咿啊啊到滔滔不絕的語言發展以及認知、社會情緒等發展。根據臺大物理治療學系鄭素芳教授的研究發現，出生體重低於1500公克早產兒的大動作發展平均較同齡足月兒慢約2個月，因此，對於早產兒來說，定期的發展篩檢絕對有其必要性。門診的物理治療師主要藉由發展篩檢，及早發現發展遲緩或疑似遲緩的個案，並適時提供早期介入服務，包含：居家環境及活動建議、發展諮詢與介入、親職技巧衛教、以及體適能促進計劃等，以期能早期發現早期介入，讓每個早產寶寶都能發揮其最大潛能。
+物理治療師是早產兒的守護天使 孩子的健康與發展是每對父母親最關心的事，而早產寶寶的成長需要比足月兒更多的關注與支持。無論是住院期或是出院後，物理治療師不僅是早產寶寶發展上的守護小天使，也是早產兒父母親在陪伴寶寶成長路上的重要夥伴！
+小檔案: 世界早產兒日 每年的11/17為世界早產兒日，這個特殊節日是源自於歐洲和美國的慈善基金會所發起的地方性早產兒關懷日。為了增加全球對早產兒的重視與關懷，便在2011年訂定11/17為世界早產兒日。根據臺灣國民健康署衛生福利部出生通報統計資料，104年的早產兒人口數達20,025人，占新生兒活產人口的9.37%，平均每12個新生兒就有一個是早產兒。
+(本文作者為 臺灣大學物理治療碩士班第15屆畢業生、臺大醫院物理治療中心物理治療師）
+(中時電子報)</description>
     </item>
     
   </channel>
