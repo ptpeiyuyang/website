@@ -26,4 +26,5 @@ title: 楊珮瑜物理治療師/ Pei-Yu Yang Physical Therapist
 * 台灣物理治療學會「高危險新生兒跨領域照護人員培訓課程及工作坊」課程規劃負責人及講師
 
 # 版品、期刊論文
-1. 楊佩瑜。早產兒的物理治療。胡名霞、曹昭懿編著：[物理治療臨床案例](https://www.govbooks.com.tw/books/111672)。
+1. 楊佩瑜(2016)。早產兒的物理治療。胡名霞、曹昭懿編著：[物理治療臨床案例](https://www.govbooks.com.tw/books/111672)。 
+2. 楊佩瑜(2014)。[以動物模式探討阻力呼吸訓練對降低放射照射引起之橫膈肌收縮功能異常之成效 (Effect of Resistive Breathing Training on Radiation-Induced Diaphragm Contractile Dysfunction – Animal Study)](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=U0001-1808201416395900)。
