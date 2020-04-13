@@ -166,7 +166,7 @@ canonifyURLs = true
   #wordpress        = ""
   #medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
+  #linkedin         = "example"
   #linkedin_company = "examplebusiness"
   #foursquare       = ""
   #xing             = ""
@@ -176,21 +176,21 @@ canonifyURLs = true
   #googleplus       = ""
   #reddit           = "example"
   #quora            = ""
-  youtube          = ""
+  #youtube          = ""
   #vimeo            = ""
   #whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
     #wechat         = ""
     #qq             = "" # User ID Number
-  instagram        = "example"
+  #instagram        = "example"
   #tumblr           = ""
-  twitter          = "example"
-  skype            = ""
+  #twitter          = "example"
+  #skype            = ""
   #snapchat         = ""
   #pinterest        = "example"
   #telegram         = "example"
   #vine             = ""
-  googlescholar    = ""
+  #googlescholar    = ""
   #orcid            = ""
   #researchgate     = "example"
   # Email
