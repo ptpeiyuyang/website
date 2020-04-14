@@ -1,6 +1,6 @@
 ---
 date: "2020-01-01"
-title: 楊珮瑜物理治療師/ Pei-Yu Yang Physical Therapist
+title: 楊佩瑜物理治療師/ Pei-Yu Yang Physical Therapist
 ---
 
 
