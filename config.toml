@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ptpeiyuyang.netlify.app/"
 languageCode = "zh" #en-us
 title = "楊佩瑜 Pei-Yu Yang"
 theme = "hugo-future-imperfect"
