@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/announcement/</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -33,6 +38,11 @@
   </url>
   
   <url>
+    <loc>/announcement/item4/</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/positioning/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
@@ -55,11 +65,6 @@
   <url>
     <loc>/blog/2020-04-12-pt-in-premature-babies/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/announcement/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
