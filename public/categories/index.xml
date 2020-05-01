@@ -6,10 +6,28 @@
     <description>Recent content in Categories on 楊佩瑜 Pei-Yu Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>oral-motor training</title>
+      <link>/categories/oral-motor-training/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/oral-motor-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>premature</title>
+      <link>/categories/premature/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/premature/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>positioning</title>
@@ -17,15 +35,6 @@
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/positioning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>premature</title>
-      <link>/categories/premature/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/premature/</guid>
       <description></description>
     </item>
     
