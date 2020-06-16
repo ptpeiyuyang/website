@@ -2,19 +2,11 @@
 title: 與寶寶的親密接觸-袋鼠式照護
 author: Pei-Yu Yang
 date: '2020-06-16'
-slug: []
 categories:
-  - premature
   - breast feeding
-tags:
-  - Premature
-  - Kangaroo care
-  - breastfeeding
-description: ''
+  - premature
 featured: Kangaroo.jpg
-featuredalt: ''
 featuredpath: date
-linktitle: ''
 type: post
 ---
   1970年代左右，許多資源匱乏的開發中國家正面臨醫療資源不足的問題，保溫箱的短缺即是其一。在當時的時空背景下，哥倫比亞小兒科醫師Edgar Rey Sanabria   便提出袋鼠式照護的概念，讓相對穩定的早產寶寶和母親進行長時間的肌膚接觸，用以取代短缺的保溫箱，提供早產寶寶較佳的體溫調節支持。
