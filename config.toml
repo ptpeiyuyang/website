@@ -87,7 +87,7 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Pei-Yu Yang"
+  header    = "就是愛媽寶"
 
   paragraph = "\b 巨塔內的物理治療師，專長是嬰幼兒和急重症物理治療，同時也是一名國際認證泌乳顧問。<br> 夢想是讓物理治療進入每個人的生活，陪伴所有家庭健康成長。"
 
