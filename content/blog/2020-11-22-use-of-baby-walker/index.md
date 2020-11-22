@@ -35,4 +35,9 @@ type: post
 ![Cruising with table](cruising.jpg)
   
 寶寶的發展需要適當刺激與陪伴，若是想要讓寶寶練習行走，適當高度的茶几（尖銳的轉角也必須小心）、沙發、圍欄或是放有重物的箱子等，都可以當作寶寶走路時的支撐物，最大的前提是**全程需有大人在旁保護以及協助**。若真的想要使用寶寶推車，也提醒大人必須全程陪同，而對於剛開始練習的寶寶，也建議大人稍微壓著車子，以免寶寶重心不穩暴衝或是因為用力過猛而跌倒受傷。  
-**若寶寶有發展上的疑慮，建議家長尋求物理治療師或相關專業的評估及協助喔！**  
+**若寶寶有發展上的疑慮，建議家長尋求物理治療師或相關專業的評估及協助喔！**    
+    
+參考資料：  
+1. Infant Walker-Related Injuries in the United States. Ariel Sims, Thitphalak Chounthirath, Jingzhen Yang, Nichole L Hodges, Gary A Smith. Pediatrics, 2018.  
+2. Effects of baby walker use on the development of gait by typically developing toddlers. Paula S C Chagas, Sergio T Fonseca, Thiago R T Santos, Thales R Souza, Luiz Megale, Paula L Silva, Marisa C Mancini. Gait and Posture, 2020.
+
