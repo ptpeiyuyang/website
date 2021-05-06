@@ -1,5 +1,5 @@
 ---
-title: 愛寶貝也要愛自己-不要媽媽症候群（上）
+title: 愛寶貝也要愛自己-遠離「媽媽症候群」（上）
 author: Pei-Yu Yang
 date: '2021-05-06'
 categories:
