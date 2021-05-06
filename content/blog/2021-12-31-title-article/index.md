@@ -1,7 +1,7 @@
 ---
-title: '[置頂]物理治療與泌乳顧問的相遇及火花'
+title: '[置頂]自我介紹與文章目錄列表'
 author: Pei-Yu Yang
-date: '2021-04-09'
+date: '2021-05-07'
 type: post
 ---
 
@@ -44,7 +44,12 @@ type: post
 
 05. [與寶寶的親密接觸：袋鼠式照護](https://ptpeiyuyang.netlify.app/blog/2020-06-16-kangaroo-care-2/)
 
-06. [瓶餵轉親餵，秘笈大公開](https://ptpeiyuyang.netlify.app/blog/2021-04-09-transition-to-breastfeed/)
-
+06. [瓶餵轉親餵，秘笈大公開](https://ptpeiyuyang.netlify.app/blog/2021-04-09-transition-to-breastfeed/)  
+  
+  
+### 其他  
+01. [愛孩子也要愛自己-遠離「媽媽症候群」](https://ptpeiyuyang.netlify.app/blog/2021-05-06-painless-mother/)
+ 
+  
 
 
