@@ -1,7 +1,7 @@
 ---
 title: '[置頂]自我介紹與文章目錄列表'
 author: Pei-Yu Yang
-date: '2021-05-07'
+date: '2021-05-09'
 type: post
 ---
 
@@ -48,7 +48,9 @@ type: post
   
   
 ### 其他  
-01. [愛孩子也要愛自己-遠離「媽媽症候群」](https://ptpeiyuyang.netlify.app/blog/2021-05-06-painless-mother/)
+01. [愛孩子也要愛自己-遠離「媽媽症候群」（上）](https://ptpeiyuyang.netlify.app/blog/2021-05-06-painless-mother/)  
+
+02. [愛孩子也要愛自己-遠離「媽媽症候群」（下）](https://ptpeiyuyang.netlify.app/blog/2021-05-08-painless-mother-2/)
  
   
 
