@@ -1,7 +1,7 @@
 ---
 title: '[置頂]自我介紹與文章目錄列表'
 author: Pei-Yu Yang
-date: '2021-05-09'
+date: '2021-06-07'
 type: post
 ---
 
@@ -30,7 +30,10 @@ type: post
 
 06. [還不會爬就想走，可能嗎？](https://ptpeiyuyang.netlify.app/blog/2021-02-07-development-of-crawl/)
 
-07. [會抬頭還不夠！談嬰兒頭部控制](https://ptpeiyuyang.netlify.app/blog/2021-03-27-pull-to-sit/ )
+07. [會抬頭還不夠！談嬰兒頭部控制](https://ptpeiyuyang.netlify.app/blog/2021-03-27-pull-to-sit/ )  
+  
+08. [玩具放嘴巴，可以嗎？](https://ptpeiyuyang.netlify.app/blog/2021-06-06-mouthing-behavior/ )  
+
 
 
 ### 母乳哺育、餵食技巧
