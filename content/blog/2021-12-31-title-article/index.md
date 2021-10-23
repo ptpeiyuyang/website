@@ -32,9 +32,18 @@ type: post
 
 07. [會抬頭還不夠！談嬰兒頭部控制](https://ptpeiyuyang.netlify.app/blog/2021-03-27-pull-to-sit/ )  
   
-08. [玩具放嘴巴，可以嗎？](https://ptpeiyuyang.netlify.app/blog/2021-06-06-mouthing-behavior/ )  
-
-
+08. [玩具放嘴巴，可以嗎？](https://ptpeiyuyang.netlify.app/blog/2021-06-06-mouthing-behavior/ )   
+  
+  
+09. [坐著玩，傷脊椎嗎？](https://ptpeiyuyang.netlify.app/blog/2021-07-17-play-with-sitting-position/)  
+  
+  
+10. [從便當包裝看肌肉張力](https://ptpeiyuyang.netlify.app/blog/2021-10-01-muscle-tone/)  
+  
+  
+11. [低張力也可以很強壯](https://ptpeiyuyang.netlify.app/blog/2021-10-16-baby-with-hypotone/)  
+  
+  
 
 ### 母乳哺育、餵食技巧
 01. [生物哺育法：最釋放本能的母乳哺餵方式](https://ptpeiyuyang.netlify.app/blog/2020-05-12-laid-back-breast-feeding/)
