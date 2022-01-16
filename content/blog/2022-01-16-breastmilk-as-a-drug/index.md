@@ -13,8 +13,7 @@ featured: breastmilk.png
 featuredpath: date
 type: post
 ---
-(首頁圖片取自https://www.babycenter.com/baby/premature-babies/donated-breast-milk-a-life-giving-journey_10389312, by Steve LaBadessa)  
-
+ 
 早產兒出生時因為免疫系統還未成熟，因此比一般足月兒有較高的感染風險。除了醫療上的藥物使用外，母乳（尤其是初乳）內含豐富的抗體、免疫球蛋白等免疫保護因子，因此可以保護早產兒避免感染，並且促進各系統的成熟。事實上，餵食早產兒母乳不僅可保護早產寶寶，對媽媽本身的健康以及我們的地球環境，都有很多好處喔！  
   
 **對早產寶寶的好處**  
@@ -61,7 +60,8 @@ type: post
 [國健署孕產婦關懷網站](https://mammy.hpa.gov.tw/)  
 [台北市立聯合醫院婦幼院區母乳庫](https://tpech.gov.taipei/mp109161/cp.aspx?n=DE0A7F64050ECABF&s=067B87A140027578)    
 [國立成功大學醫學院附設醫院南區母乳庫](http://milkbank.hosp.ncku.edu.tw/)  
-  
+    
+(首頁圖片取自https://www.babycenter.com/baby/premature-babies/donated-breast-milk-a-life-giving-journey_10389312, by Steve LaBadessa)   
   
   
 
