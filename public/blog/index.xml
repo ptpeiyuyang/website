@@ -2,39 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on 楊佩瑜 Pei-Yu Yang</title>
-    <link>/blog/</link>
+    <link>https://ptpeiyuyang.netlify.app/blog/</link>
     <description>Recent content in Blog on 楊佩瑜 Pei-Yu Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ptpeiyuyang.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>測試文章</title>
-      <link>/blog/2026-09-22-%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2026-09-22-%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A0/</guid>
-      <description>文章測試新貼文</description>
-    </item>
-    
-    <item>
-      <title>測試文章2</title>
-      <link>/blog/2026-09-22-%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A02/</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2026-09-22-%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A02/</guid>
-      <description>  </description>
-    </item>
     
     <item>
       <title>「抱」出一身好發展：新生兒攜抱法</title>
-      <link>/blog/2023-02-19-hold-your-baby/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2023-02-19-hold-your-baby/</link>
       <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2023-02-19-hold-your-baby/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2023-02-19-hold-your-baby/</guid>
       <description>當孩子出生，從溫暖且包覆性極佳的子宮內離開，無限制的肌膚接觸是最能夠安撫孩子、讓孩子穩定下來，並給孩子最大安全感的方式之一。有許多研究發現，透過擁抱給予孩子好的觸覺刺激，能夠促進孩子腦部發育、幫助孩子穩定生長、協助安撫孩子情緒以及降低壓力反應。擁抱，也是建立良好親子關係與互動最簡單的方式。然而，剛出生的新生兒看起來很脆弱，脖子也軟趴趴的，許多新手爸媽即使很想把孩子抱好抱滿，卻也擔心是否會因為抱的方式不對而傷害到孩子。
  擁抱，是建立良好親子關係與互動最簡單的方式之一
  以下分別介紹幾種0~3個月嬰兒的攜抱方式與好處，讓我們一起「抱」出孩子的好發展吧！
@@ -52,10 +34,10 @@
     
     <item>
       <title>超乎想像的母乳力：母乳之於早產兒</title>
-      <link>/blog/2022-01-16-breastmilk-as-a-drug/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2022-01-16-breastmilk-as-a-drug/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2022-01-16-breastmilk-as-a-drug/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2022-01-16-breastmilk-as-a-drug/</guid>
       <description>早產兒出生時因為免疫系統還未成熟，因此比一般足月兒有較高的感染風險。除了醫療上的藥物使用外，母乳（尤其是初乳）內含豐富的抗體、免疫球蛋白等免疫保護因子，因此可以保護早產兒避免感染，並且促進各系統的成熟。事實上，餵食早產兒母乳不僅可保護早產寶寶，對媽媽本身的健康以及我們的地球環境，都有很多好處喔！
 對早產寶寶的好處
   提供保護力
@@ -80,10 +62,10 @@
     
     <item>
       <title>[置頂]自我介紹與文章目錄列表</title>
-      <link>/blog/2021-10-28-title-article/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-10-28-title-article/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-10-28-title-article/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-10-28-title-article/</guid>
       <description>我是一名兒童物理治療師，主要負責在新生兒加護病房裡的物理治療業務，工作內容包含口腔進食功能在內的高危險新生兒發展性照護。工作的關係，許多早產兒家長在出院準備時會和我討論起回家後的餵食方式，當時對母乳哺育完全不了解的我，聽到「親餵」兩字往往帶著為難的表情，暗示著家長「此路不通」。幾次以後，我開始懷疑，這樣的答案真的是正確的嗎？我自己對親餵又了解多少呢？轉念一想，知識不就是應該讓人們有更多選擇的權利嗎？身為一個協助個案增進活動與參與功能的物理治療師，親餵真的是不可能的選擇嗎？於是我決定給我自己一個機會，好好的認識母乳哺育，這樣就算要打消家長的念頭也比較理直氣壯（誤）。
 於是從2018年開始，我花了將近一年的時間，從最基本的生理解剖、泌乳機轉等基礎知識開始，慢慢把泌乳相關的學理知識一一補齊。學著學著發現，原來泌乳顧問的養成不只關注於那對乳房與那張嘴，而是整個家庭，甚至是整個社會整個地球！上課的過程中，我不斷的在泌乳科學的領域裡找到物理治療的切入點，也不斷的在物理治療的臨床實踐中放入泌乳科學的概念，於是我越學越興奮、越學越投入，終於在2019年的年底完成IBCLC的考試，並在2020的第一天成為了IBCLC的新鮮人！
 成為一個泌乳顧問並不是要變成別人口中的「母乳派」或是「母乳魔人」（千萬不要幫我貼這樣的標籤啊～），出發點其實和物理治療一樣，只是想讓自己照護母嬰的能力更完整，藉由增進父母親職能力、兒童口腔及動作能力進而協助整個家庭完成他們的「家庭參與」目標。對於自己臨床上接觸最多的早產寶寶，也可以提供家庭多一種選擇，讓寶寶和同儕一樣有選擇的權利，而不會因為是早產就註定和親餵無緣。這其實和發展性照護的目標不謀而合。
@@ -112,10 +94,10 @@
     
     <item>
       <title>低張力也可以很強壯</title>
-      <link>/blog/2021-10-16-baby-with-hypotone/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-10-16-baby-with-hypotone/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-10-16-baby-with-hypotone/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-10-16-baby-with-hypotone/</guid>
       <description>在前一篇中，我們用了橡皮筋與便當盒的概念解釋了什麼是肌肉張力，以及肌肉張力和動作表現之間的關係。今天我們來談談，低張力寶寶常會有的表現以及物理治療介入策略。
 嬰兒的肌肉張力發展 在胎兒及新生兒的神經發育過程中，肌肉張力並非一成不變。以早產兒而言，在滿40週足月前，寶寶的張力是從腳到頭的方向發展出來的。舉例來說，一個28週出生的寶寶，剛開始四肢可能呈現癱軟狀態，隨著週數越長越大，先是腳會能夠維持彎曲，然後接著手臂也能夠維持彎曲姿勢擺放在胸前，變成和足月新生兒同樣的屈曲姿勢。而到了足月之後的張力發展就和一般足月新生兒相同，原則上是從頭到腳的方向發展，因此寶寶的頸部張力會先出現，然後才是軀幹張力；而這時寶寶的屈曲張力也會慢慢下降，不會再像新生兒那樣「捲」在一起。
 低張力寶寶的原因 造成寶寶低張力的原因很多，除了上面提到的早產之外，其他包括中樞或周邊神經系統異常、神經肌肉病變、代謝性疾病、內分泌問題、營養問題、染色體異常等疾病都有可能會造成寶寶低張力。因此，若發現寶寶張力異常，最重要的是帶寶寶至醫療院所檢查，找出可能的致病原因進而接受治療。然而，臨床上除了與上述疾病相關的低張力之外，也有一部分寶寶的低張力是找不到原因的。
@@ -132,10 +114,10 @@
     
     <item>
       <title>從便當包裝看肌肉張力</title>
-      <link>/blog/2021-10-01-muscle-tone/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-10-01-muscle-tone/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-10-01-muscle-tone/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-10-01-muscle-tone/</guid>
       <description>常有帶著孩子前來評估的家長很擔心地問我，「醫生說我的寶寶低張，該怎麼辦？」或是「寶寶有低張，長大會自己好嗎？」
 資訊量爆炸的現在，只要在搜尋引擎打上「張力異常」就會出現上百萬筆的資料，但是家長多半在看完一篇又一篇的文章後，對於張力到底是什麼，仍然一頭霧水，甚至越看越擔心……
 肌肉張力與肌肉力氣 從定義上來看，肌肉張力 (muscle tone) 指的是肌肉處於休息狀態下，面對被動牽拉時所產生的阻力；也可以說是肌肉本身的彈性。因此，當我們在評估肌肉張力時，通常會要求受測者放鬆不要出力。
@@ -155,10 +137,10 @@
     
     <item>
       <title>坐著玩，傷脊椎嗎？</title>
-      <link>/blog/2021-07-17-play-with-sitting-position/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-07-17-play-with-sitting-position/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-07-17-play-with-sitting-position/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-07-17-play-with-sitting-position/</guid>
       <description>物理治療師在評估嬰幼兒的粗大動作發展時，會根據孩子在不同姿勢下的活動能力來判斷發展狀況，可大致分為躺姿、趴姿、坐姿、以及站姿。「七坐八爬」相信是大家都不陌生的嬰兒發展里程碑。事實上，嬰兒的粗大動作發展是一連串的過程，與嬰兒的神經成熟度以及肌肉動作控制能力相關，很難單純用時間點去界定，也並不是一定要會坐了才能進階到爬。
 近年來，由於大家對於Tummy time 的重視，越來越多家長認知到應該讓孩子多趴著玩，這是一個好現象！然而，在做發展評估時卻也發現另一個有趣的現象：有些寶寶在趴姿下的能力超強，可以用手掌撐地趴、可以肚子貼地轉圈圈、甚至可以一手手肘撐地另一手伸出來玩玩具，但是被擺到坐姿下時，整個身體軟趴趴，若大人沒有給予支撐就完全無法維持姿勢。通常再深入問下去，會發現這些寶寶在家多半都是趴著玩，很少有機會採取直立姿勢玩耍，就算有，也多半是緊靠著大人身體坐。當然偶爾也會聽到一些「太早坐對小孩脊椎不好、容易脊椎側彎」等等的都市傳說……事實上，目前並沒有證據顯示讓寶寶練習坐會影響脊椎形狀。
 直立姿勢的好處 直立姿勢可以改變寶寶的視覺刺激型態、得到不同於水平姿勢的本體感覺刺激（所謂的本體感覺就是不用眼睛看就能感知到身體位置及活動的能力，例如：本體感覺正常的人閉著眼睛也能夠摸到自己的鼻子、閉著眼睛也能知道自己處於坐著還是站著的姿勢），也有人發現當寶寶能夠獨坐或站立時，得到的語言刺激也會大不相同！而能夠獨立坐穩的寶寶，由於能夠更隨心所欲地釋放雙手玩耍，因此探索的機會增加，更能夠藉由操作來感受物品的質地及形狀，使得物品操作能力增加，空間概念也更好！此外，也有研究發現，早產兒獨坐的能力和日後的語言及認知發展相關。因此，提供適度的坐姿練習，對寶寶的發展也有一定的重要性。
@@ -169,10 +151,10 @@
     
     <item>
       <title>玩具放嘴巴，可以嗎？</title>
-      <link>/blog/2021-06-06-mouthing-behavior/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-06-06-mouthing-behavior/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-06-06-mouthing-behavior/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-06-06-mouthing-behavior/</guid>
       <description>相信家中有小嬰兒的爸媽，對下面的對話應該都不陌生（笑）
 「玩具髒髒，不要放嘴巴」
 「亂咬東西會生病喔」
@@ -208,10 +190,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>愛寶貝也要愛自己-遠離「媽媽症候群」（下）</title>
-      <link>/blog/2021-05-08-painless-mother-2/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-05-08-painless-mother-2/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-05-08-painless-mother-2/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-05-08-painless-mother-2/</guid>
       <description>上篇文章中，我們介紹了媽媽手以及腕隧道症候群。這篇文章，我們將繼續介紹「網球肘」以及「頸背部酸痛」。
 提醒您：若有任何疼痛不適，請務必就醫接受診斷及治療，找到根本原因後，再搭配本文進行居家運動，才能真正解決疼痛問題喔！
 網球肘 網球肘的正式醫學名稱為「肱骨上髁炎」，由於許多網球選手若擊球時的姿勢不當，容易造成手肘外側肌腱發炎疼痛，所以也稱作網球肘，是很常見的運動傷害。
@@ -238,10 +220,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>愛寶貝也要愛自己-遠離「媽媽症候群」（上）</title>
-      <link>/blog/2021-05-06-painless-mother/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-05-06-painless-mother/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-05-06-painless-mother/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-05-06-painless-mother/</guid>
       <description>媽媽真的是世界上最偉大也最辛苦的職業！
 在物理治療門診常常見到各式各樣關於媽媽的「職業災害」，看著媽媽們這裡疼、那裡痛，卻還是一邊做治療一邊繼續日常的工作，除了心疼也是不捨。其實，很多「媽媽職災」都跟姿勢以及用力不當有關，適當調整的話，疼痛是可以預防的喔！以下就媽媽手、腕隧道症候群、肩背疼痛以及網球肘等四大常見傷害分別介紹，一起來了解吧！
 提醒您：若有任何疼痛不適，請務必就醫接受診斷及治療，找到根本原因後，再搭配本文進行居家運動，才能真正解決疼痛問題喔！
@@ -268,10 +250,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>瓶餵轉親餵，秘笈大公開</title>
-      <link>/blog/2021-04-09-transition-to-breastfeed/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-04-09-transition-to-breastfeed/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-04-09-transition-to-breastfeed/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-04-09-transition-to-breastfeed/</guid>
       <description>＊本文參考整理自GOLD Lactation 2021, ReLATCHtation: transitioning the Exclusively Bottle-fed Baby to Nursing, by Alyssa Schenell, IBCLC
 如何瓶餵轉親餵一直是母乳社團或媽媽社團裡常常出現的月（？）經文。想讓寶寶重新再回到乳房上的原因很多，有些是厭倦了無限擠奶餵奶洗奶瓶的忙碌迴圈、有些可能因為產後種種因素無法親餵、甚至有些是短暫離乳後發現生活沒有比較好過（笑）而決定重新練習親餵…不管是什麼原因，讓寶寶重新回到乳房上都需要一些時間與方法來適應。
 從瓶餵轉親餵的過程可以大致分成四個階段：
@@ -295,10 +277,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>會抬頭還不夠！談嬰兒頭部控制</title>
-      <link>/blog/2021-03-27-pull-to-sit/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-03-27-pull-to-sit/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-03-27-pull-to-sit/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-03-27-pull-to-sit/</guid>
       <description>以兒童粗大動作發展的角度來看，3個月大左右的寶寶通常已經有相當程度的頭部控制，意指寶寶大部分時間可以維持頭部在身體中線，當被抱直起來的時候大人也不需要一直扶著寶寶的頭，趴著玩時能把頭抬高到90度。但是，有部分的3-4個月大的寶寶，當大人拉著寶寶的手從躺著要坐起來時，寶寶的頭會持續掉在身體後方而無法跟上，這種情況我們稱為Head lag（找不到比較適合的中文翻譯……）。
  3個月大的寶寶通常已經有相當程度的頭部控制能力。
  造成Head lag的原因很多，包括早產、腦部損傷、肌張力異常、出生體重過低、新生兒時期有密集性使用過呼吸器等因素；也有研究認為，感覺功能異常的寶寶也會有head lag 的現象，主要因為這些寶寶對於頭部位置的變化感覺較差，因此無法啟動動作神經來改變姿勢以應付預期性的姿勢變化。近期個人臨床上的觀察發現，有些寶寶每天很認真的tummy time （使用的是頸部後側的肌肉群），但是生活中缺乏需要脖子前側用力的活動，使得寶寶在放鬆姿勢下看起來都像仰著頭，抱直立起來時也需要時時刻刻護著孩子的頭以防往後掉，這個現象可能跟頸部前後側肌肉力量不平均有關。由於頭部控制能力和寶寶日後神經行為發展有密切關係，因此，早期發現早期介入對這些寶寶來說是非常重要的。
@@ -309,10 +291,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>還不會爬就想走，可能嗎？</title>
-      <link>/blog/2021-02-07-development-of-crawl/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2021-02-07-development-of-crawl/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021-02-07-development-of-crawl/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2021-02-07-development-of-crawl/</guid>
       <description>對多數家長來說，當寶寶學會往前爬，搗蛋的技能就像往上一個檔次，可以說是既開心又擔心。 在門診諮詢的經驗中，也發現華人家長對於「爬」好像特別情有獨鍾，對於寶寶爬行這件事，也充滿了各種獵奇的都市傳說（笑）。
 今天，我們就來談談「嬰兒爬行」。
 嬰兒一定要會爬才能走？ 曾經有家長問道，
@@ -332,10 +314,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>真的不能給寶寶坐學步車嗎？</title>
-      <link>/blog/2020-11-22-use-of-baby-walker/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-11-22-use-of-baby-walker/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-11-22-use-of-baby-walker/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-11-22-use-of-baby-walker/</guid>
       <description>在發展評估門診，偶爾會有家長問我
 「老師，我可以給寶寶坐學步車嗎？」 或是
 「老師，我看到有些育兒文章反對學步車的使用，可是我小時候也常常被放在學步車裡面，現在也是好好的！真的不能坐嗎？」 針對這個問題，我多半會詢問家長，想給寶寶學步車的理由是什麼？
@@ -355,10 +337,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>躺著睡趴著玩：創造寶寶的第一個曲線</title>
-      <link>/blog/2020-11-09-tummy-times/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-11-09-tummy-times/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-11-09-tummy-times/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-11-09-tummy-times/</guid>
       <description>「老師，我的寶寶脖子好像很軟，怎麼辦？」
 「老師，我的寶寶已經5個多月了可是還不會翻身，是不是發展遲緩？」
 臨床上，這樣的疑問並不少見，是不是發展遲緩也必須經過更完整的評估；然而，經過深入問診後，常會發現家長因為擔心寶寶窒息，而多半讓寶寶處於躺姿或抱在手上。事實上，根據世界衛生組織、美國兒科醫學會以及英國、澳洲、南非等國家的臨床指引，小於6個月的嬰兒，每天應該進行至少30分鐘的趴姿活動時間，也就是「Tummy Time」。
@@ -374,10 +356,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>早產寶寶母乳哺育之路</title>
-      <link>/blog/2020-08-15-importance-of-breast-feeding/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-08-15-importance-of-breast-feeding/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-08-15-importance-of-breast-feeding/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-08-15-importance-of-breast-feeding/</guid>
       <description>母乳對早產寶寶的重要性 母奶是早產寶寶很重要的營養與免疫來源。研究證實，喝母奶的寶寶發生致命性感染的比例較低、得到壞死性腸炎的機率較低、腦部發育較好且長大後的智商較高，出院後也比較不容易因為感染重複進出醫院！事實上，母奶裡有600多種活性物質，除了可以刺激腸胃道發育外，裡面豐富的抗體也是寶寶對抗感染的最佳武器，這是配方奶做不到的！
 在NICU工作一陣子後，總會遇到一些家長問我說
 「老師，寶寶現在會吃了，我們回家可以親餵嗎？」
@@ -402,10 +384,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>與寶寶的親密接觸-袋鼠式照護</title>
-      <link>/blog/2020-06-16-kangaroo-care-2/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-06-16-kangaroo-care-2/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-06-16-kangaroo-care-2/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-06-16-kangaroo-care-2/</guid>
       <description>1970年代左右，許多資源匱乏的開發中國家正面臨醫療資源不足的問題，保溫箱的短缺即是其一。在當時的時空背景下，哥倫比亞小兒科醫師Edgar Rey Sanabria 便提出袋鼠式照護的概念，讓相對穩定的早產寶寶和母親進行長時間的肌膚接觸，用以取代短缺的保溫箱，提供早產寶寶較佳的體溫調節支持。
 所謂的袋鼠式照護即是讓父母親及嬰兒進行長時間不間斷的肌膚接觸(skin-to-skin contact) ， 除了尿布 之外，寶寶原則上是不著裝的趴在父/母親裸露出的胸口，之後再用大毛巾或包巾包裹或覆蓋著嬰兒和父/母親雙方，一方面保溫，一方面也可以協助固定嬰兒的位置。
  所謂的袋鼠式照護即是讓父母親及嬰兒進行長時間不間斷的肌膚接觸
@@ -423,10 +405,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>尊重寶寶從餵食開始—談嬰兒主導式瓶餵</title>
-      <link>/blog/2020-05-16-baby-fed-bottle-feeding/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-05-16-baby-fed-bottle-feeding/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-05-16-baby-fed-bottle-feeding/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-05-16-baby-fed-bottle-feeding/</guid>
       <description>在一天辛苦的工作後，我們總希望有時間好好的坐下來吃飯，如果還是在燈光美氣氛佳的餐廳，和最親愛的家人一起邊吃邊聊天，絕對是生活中的一大享受！相反的，如果每次到了滿懷期待的用餐時間，卻如同大胃王比賽一般的被規定要在10分鐘吃掉2個便當，久了之後我想無論是誰，只要想到又要吃飯應該都會頭大。在教養上，我們常聽到要尊重孩子的個別氣質、尊重孩子的選擇；事實上，餵食時我們也可以選擇尊重寶寶的節奏與需求。
 嬰兒主導式瓶餵意指讓寶寶在沒有壓力的情形下，根據自己的需求決定是否進食、用自己的節奏完成進食以及自己決定什麼時候完成進食。只要是瓶餵，無論是擠出母奶或是配方奶都適用。和大人一樣，我們也可以把嬰兒的進食分成「前菜」、「主餐」以及最後的「甜點」三階段。
 前菜：親子互動與飢餓暗示 有些照顧者習慣聽到寶寶開始大哭時才準備餵食，然而，哭泣往往是飢餓訊息的最後底線！（翻成白話文就是，快來餵我！我快餓死了！）到了這個時候才餵寶寶，通常還得花費一番功夫讓寶寶平靜下來。如果我們在寶寶剛開始出現飢餓暗示的時候，就試著先把寶寶的包巾打開，幫寶寶做做按摩，或者讓寶寶的手腳有機會揮一揮、踢一踢，讓寶寶慢慢從睡眠中甦醒過來，可以幫助寶寶在相對較平靜的狀態下開始進行餵食。而這樣的親子互動與刺激，也對寶寶的神經行為發展有正向的影響。
@@ -442,10 +424,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>生物哺育法：最釋放本能的母乳哺餵方式</title>
-      <link>/blog/2020-05-12-laid-back-breast-feeding/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-05-12-laid-back-breast-feeding/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-05-12-laid-back-breast-feeding/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-05-12-laid-back-breast-feeding/</guid>
       <description>生物哺育法（biological nurturing, BN），又可以稱作生物滋養法，是英國學者Suzanne Colson在2005年經過觀察研究而發表的一種哺乳方式。生物哺育法是一種由母親出發，促進寶寶神經行為的哺育方式，目的在於減少含乳時的困難，降低未預期的終止哺乳。生物哺育法不僅僅是母乳哺育的方式，更可視為肌膚接觸的延伸，認為應根據母親意願，進行不限時間、不限次數、越多肌膚接觸越好的一個過程。
  生物哺育法是一種由母親出發，促進寶寶神經行為的哺育方式
  生物哺育法相信並鼓勵激發嬰兒的尋乳本能，事實上Suzanne的研究也發現，當使用生物哺育法哺餵時，可觀察到寶寶釋放多達20種原始反射，顯著多於傳統的哺餵方式！Suzanne認為，和其他哺乳類動物一樣，人類也是一種腹側進食者（abdominal feeder，相對於dorsal feeder）(這個翻譯參考就好……我找不到比較好的翻譯……)，也會展現許多抗重力的原始反射來幫助含乳。
@@ -457,10 +439,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>吃「奶」皇帝大！談早產兒口腔動作訓練</title>
-      <link>/blog/2020-04-30-oral-motor-training/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-04-30-oral-motor-training/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-04-30-oral-motor-training/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-04-30-oral-motor-training/</guid>
       <description>在新生兒加護病房中，餵食管（無論是鼻胃管或口胃管）應該可以排在早產寶寶常用管線排行榜的前三名。很多人可能會好奇，吃，不是一種本能嗎？不是應該生下來就會吃嗎？事實上，對早產寶寶來說，由口進食真的不是一件容易的事。在早產兒生命徵象穩定、脫離呼吸器後，體重增長狀況及口腔進食能力往往是寶寶能否出院回家的一個重要指標，因此，「可不可以自己從嘴巴吃」便成為寶寶出院前，家長和醫師最關心的議題了。
  寶寶能否出院回家的一個重要指標: 可不可以自己從嘴巴吃
   一個功能性的進食能力，必須涵蓋以下要素：包括吸吮能力、吞嚥能力、呼吸功能、心肺耐力以及吸-吞-呼吸協調能力。大部分的足月寶寶，在孕期的後面幾個月，便開始藉由重複吸吞羊水的方式來練習自己的口腔動作（所以，有人說寶寶在肚子裡都在喝尿，是真的……）；然而，對於早產寶寶來說（尤其是懷孕週數小於35週的早產兒），常常是在還來不及配備這項技能的情況下就出生了。除此之外，若是長期使用呼吸器甚至是插管的寶寶，常須經由口鼻接受抽痰治療，再加上口胃管長期放置於口腔內，可能使得寶寶口腔經驗不佳進而造成口腔過度敏感，以及出現異常的口腔動作型態等問題。因此，口腔動作誘發以及餵食功能訓練，可以說是物理治療師在新生兒加護病房內進行早期介入中非常重要的一項功課。
@@ -477,10 +459,10 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>早產兒的治療性擺位</title>
-      <link>/blog/2020-04-26-positioning/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-04-26-positioning/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-04-26-positioning/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-04-26-positioning/</guid>
       <description>在新生兒加護病房中，我們常可以見到護理師將休息中的早產寶寶擺在不同的姿勢下，有時趴著、有時躺著，到底這些不同的姿勢對於早產寶寶有什麼用意呢？又要如何選擇合適的擺位姿勢呢？這些姿勢在出院回家後一樣適用嗎？
 在新生兒加護病房中的擺位處置我們一般稱為「治療性擺位」，顧名思義，不同的擺位方式除了增加早產寶寶舒適度外，或多或少帶有一點治療性的意味在。而對於一般早產兒來說，擺位的目的除了可以讓寶寶有比較好的休息品質之外，也希望藉由擺位促進寶寶的神經行為發展、誘發良好的動作方式及型態，以及抑制不正常的肌肉張力。
  正確的擺位可以促進神經行為發展、誘發良好的動作，以及抑制不正常的肌肉張力。
@@ -497,19 +479,19 @@ Fessler這位學者在2004年提出「腸道免疫假說」，認為寶寶藉由
     
     <item>
       <title>懶人包系列- 買賣母奶罪母湯</title>
-      <link>/blog/2020-04-12-breast-feeding/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-04-12-breast-feeding/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-04-12-breast-feeding/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-04-12-breast-feeding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>懶人包系列- 早產兒發展照護</title>
-      <link>/blog/2020-04-12-pt-in-premature-babies/</link>
+      <link>https://ptpeiyuyang.netlify.app/blog/2020-04-12-pt-in-premature-babies/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-04-12-pt-in-premature-babies/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/blog/2020-04-12-pt-in-premature-babies/</guid>
       <description></description>
     </item>
     

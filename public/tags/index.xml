@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 楊佩瑜 Pei-Yu Yang</title>
-    <link>/tags/</link>
+    <link>https://ptpeiyuyang.netlify.app/tags/</link>
     <description>Recent content in Tags on 楊佩瑜 Pei-Yu Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ptpeiyuyang.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>breastmilk</title>
-      <link>/tags/breastmilk/</link>
+      <link>https://ptpeiyuyang.netlify.app/tags/breastmilk/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/breastmilk/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/tags/breastmilk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prematurity</title>
-      <link>/tags/prematurity/</link>
+      <link>https://ptpeiyuyang.netlify.app/tags/prematurity/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/prematurity/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/tags/prematurity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>protection</title>
-      <link>/tags/protection/</link>
+      <link>https://ptpeiyuyang.netlify.app/tags/protection/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/protection/</guid>
+      <guid>https://ptpeiyuyang.netlify.app/tags/protection/</guid>
       <description></description>
     </item>
     
